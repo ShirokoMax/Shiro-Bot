@@ -1,3 +1,11 @@
+.DS_Store
+.idea
+.vscode
+*.ai
+*.log
+*.pdf
+*.psd
+*.sublime*
 node_modules/
-
-token.js
+npm-debug.*
+Thumbs.db
