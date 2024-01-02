@@ -1,5 +1,5 @@
 {
-  "name": "Shiro-Bot",
+  "name": "shiro_bot",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -18,8 +18,6 @@
   },
   "homepage": "https://github.com/ShirokoMax/Shiro-Bot#readme",
   "dependencies": {
-    "fs": "0.0.1-security",
-    "node-telegram-bot-api": "^0.50.0",
-    "request": "^2.88.2"
+    "node-telegram-bot-api": "0.64.0"
   }
 }
